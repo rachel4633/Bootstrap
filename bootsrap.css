@@ -1,0 +1,39 @@
+#sec8{
+background-color: rgba(1, 1, 97, 0.918);
+color: rgb(223, 228, 233);
+}
+#tweet:hover{
+    color: yellow;
+}
+#tweet{
+    color: grey;
+}
+.phone:hover{
+    color: whitesmoke;
+}
+.phone{
+    color: rgb(185, 174, 159);
+}
+a:link{
+    color: grey;
+    text-decoration: none;
+}
+a:hover{
+    color: whitesmoke;
+}
+
+
+.fb:hover{
+ filter:invert(85%) sepia(87%) saturate(1500%) hue-rotate(355deg) brightness(105%) contrast(105%);
+ width: 30px;
+}
+
+.insta:hover{
+    filter:invert(85%) sepia(87%) saturate(1500%) hue-rotate(355deg) brightness(105%) contrast(105%);
+ width: 30px;
+}
+.tweet:hover{
+    filter:invert(85%) sepia(87%) saturate(1500%) hue-rotate(355deg) brightness(105%) contrast(105%);
+ width: 30px;
+}
+
